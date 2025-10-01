@@ -1,0 +1,2 @@
+Hello Hacktoberfest 2025!
+Contributor: Arpit Kumar Jaiswal
